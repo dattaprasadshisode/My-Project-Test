@@ -1,0 +1,9 @@
+{
+  "name": "my-project-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd \"My Project\" && npm install && npm run build",
+    "install": "cd \"My Project\" && npm install"
+  }
+}
